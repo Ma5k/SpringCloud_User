@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: user-server
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Mask
+Implementation-Vendor-Id: com.mask
+Build-Jdk: 1.8.0_60
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/user/user-server
+Created-By: Maven Integration for Eclipse
+
